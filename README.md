@@ -16,7 +16,7 @@
 
 [TechBoost](https://techboost.live)
 
-[TechTickets](https://techout.is-a.dev/od8bYRvR)
+[TechTickets](https://techtickets.xyz)
 
 [ArkHelp](https://techout.is-a.dev/od8bYRvR)
 
