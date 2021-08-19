@@ -18,6 +18,8 @@
 
 [TechTickets](https://techtickets.xyz)
 
+[TechTunes](https://techout.is-a.dev/od8bYRvR)
+
 [ArkHelp](https://techout.is-a.dev/od8bYRvR)
 
 ### Programming languages and Tools I mainly use
