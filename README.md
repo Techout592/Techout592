@@ -1,17 +1,17 @@
 ### Hi There, I'm Techout.
-[![Website](https://img.shields.io/website?label=techout.tech&style=for-the-badge&url=https://techout.tech)](https://techout.tech)
+[![Website](https://img.shields.io/website?label=techoutdev.com&style=for-the-badge&url=https://techoutdev.com)](https://techoutdev.com)
 
 ## My Stats
 [![Techout's github stats](https://github-readme-stats.vercel.app/api?username=Techout592&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Techout592)
 
 ## How to Contact me
-📫         contact@techout.tech
+📫         root@techoutdev.com
 
 <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Techout#9999 
 
-<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> https://discord.techout.tech
+<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> https://discord.techoutdev.com
 
-## My current active Projects
+## My Projects
 [TechHost](https://techhost.live)
 
 [TechBoost](https://techboost.live)
